@@ -73,22 +73,22 @@ false
 #### 1.Create Organization
 
 1. **Create Organization**  
-  ![Create Organization](images/Create Orgs.png)
+  ![Create Organization](images/create-orgs.png)
 
 2. **Create Project**  
-   ![Create Project](images/Create project.png)
+   ![Create Project](images/create-project.png)
 
 3. **Create Flag**  
-   ![Create Flag](images/Create Flag.png)
+   ![Create Flag](images/create-flag.png)
 
 4. **Turn Flag ON**  
-   ![Turn Flag ON](images/Flag turn ON.png)
+   ![Turn Flag ON](images/flag-turn-on.png)
 
 5. **Check Flag Status**  
-   ![Check Flag Status](images/Check Status.png)
+   ![Check Flag Status](images/check-status.png)
 
 6. **Delete Flag**  
-   ![Delete Flag](images/Delete Flag.png)
+   ![Delete Flag](images/delete-flag.png)
 
 ---
 
